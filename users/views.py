@@ -3,6 +3,8 @@ from django.http import JsonResponse
 from .models import User
 from django.contrib.auth.hashers import make_password
 from django.views.decorators.csrf import csrf_exempt
+from django.contrib.auth.hashers import check_password
+
 
 @csrf_exempt  # Desativa CSRF para fins de teste. Use segurança adequada em produção.
 def register_user(request):
