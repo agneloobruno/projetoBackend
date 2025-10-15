@@ -1,0 +1,67 @@
+.Titulo2{
+    width: auto;
+    margin-left: 30px;
+    color: #fff;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.container1{
+    justify-content: space-between;
+    width: 380px;
+    background-color: #fff;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    padding: 15px;
+    border-style: 10px;
+    border-radius: 20px;
+    margin-left: 100px;
+}
+
+.Cadastrar{
+    margin-top: 15px;
+    margin-left: 20px;
+    text-align: center;
+    padding: 7px;
+    width: 300px;
+    height: 30px;
+    background-color: #3B82F6;
+    border-radius: 10px;
+    color: #fff;
+}
+.container1 .SingNome{
+    margin-left: 10px;
+    padding: 5px;
+}
+.SingNome .SingNome2{
+    width: 300px;
+    height: 25px;
+    font-size: 15px;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+.container1 .SingEmail{
+    margin-left: 10px;
+    padding: 5px;
+}
+.SingEmail .SingEmail2{
+    width: 300px;
+    height: 25px;
+    font-size: 15px;
+    border-radius: 7px;
+    padding: 5px;
+}
+.container1 .SingSenha{
+    margin-left: 10px;
+    padding: 5px;
+}
+.SingSenha .SingSenha2{
+    width: 300px;
+    height: 25px;
+    font-size: 15px;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+.icon{
+    font-size: 20px;
+}

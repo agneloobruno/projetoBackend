@@ -1,0 +1,12 @@
+* {
+  text-decoration: none;
+  color: inherit;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+}
